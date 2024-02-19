@@ -1,0 +1,22 @@
+@keyframes animate {
+  0% {
+    width: 0%;
+    background: red;
+  }
+  25% {
+    width: 25%;
+    background: orange;
+  }
+  50% {
+    width: 50%;
+    background: yellow;
+  }
+  75% {
+    width: 75%;
+    background: greenyellow;
+  }
+  100% {
+    width: 100%;
+    background: green;
+  }
+}
